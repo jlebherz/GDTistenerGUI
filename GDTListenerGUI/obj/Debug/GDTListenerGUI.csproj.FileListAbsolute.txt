@@ -1,0 +1,10 @@
+c:\users\john\documents\visual studio 2017\Projects\GDTListenerGUI\GDTListenerGUI\bin\Debug\GDTListenerGUI.exe.config
+c:\users\john\documents\visual studio 2017\Projects\GDTListenerGUI\GDTListenerGUI\bin\Debug\GDTListenerGUI.exe
+c:\users\john\documents\visual studio 2017\Projects\GDTListenerGUI\GDTListenerGUI\bin\Debug\GDTListenerGUI.pdb
+c:\users\john\documents\visual studio 2017\Projects\GDTListenerGUI\GDTListenerGUI\obj\Debug\GDTListenerGUI.csprojResolveAssemblyReference.cache
+c:\users\john\documents\visual studio 2017\Projects\GDTListenerGUI\GDTListenerGUI\obj\Debug\GDTListenerGUI.GDTListener.resources
+c:\users\john\documents\visual studio 2017\Projects\GDTListenerGUI\GDTListenerGUI\obj\Debug\GDTListenerGUI.Properties.Resources.resources
+c:\users\john\documents\visual studio 2017\Projects\GDTListenerGUI\GDTListenerGUI\obj\Debug\GDTListenerGUI.csproj.GenerateResource.Cache
+c:\users\john\documents\visual studio 2017\Projects\GDTListenerGUI\GDTListenerGUI\obj\Debug\GDTListenerGUI.csproj.CoreCompileInputs.cache
+c:\users\john\documents\visual studio 2017\Projects\GDTListenerGUI\GDTListenerGUI\obj\Debug\GDTListenerGUI.exe
+c:\users\john\documents\visual studio 2017\Projects\GDTListenerGUI\GDTListenerGUI\obj\Debug\GDTListenerGUI.pdb
